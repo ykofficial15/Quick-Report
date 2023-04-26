@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516191154440",
+    "project_id": "yogx-7513a",
+    "storage_bucket": "yogx-7513a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516191154440:android:cd91e97cfe8973b049fcbd",
+        "android_client_info": {
+          "package_name": "com.example.quick_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516191154440-qtmmgq9et7oabsgrtm9f7pmetb4gdkkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJAwm0TDxbBQBkJZd_YGEH0uDEXva_no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516191154440-qtmmgq9et7oabsgrtm9f7pmetb4gdkkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
